@@ -1,0 +1,128 @@
+.con1{
+    /*box-shadow: 5px 0px 10px 3px lightblue;*/
+    margin-right: 10%;
+    margin-left: 10%;
+    border: 1px solid rgb(180, 213, 224);
+    padding: 20px;
+    margin-top: 4%;
+    padding-left: 30px;
+    border-radius: 5px 5px 0 0;
+    font-family: 'karla', sans-serif;
+}
+
+.con1 p
+{
+    color: rgba(201,208,218,255);
+    font-size: 2vw;
+    line-height: 3vw;
+}
+
+body
+{
+    text-shadow: 0.02vw 0.02vw gray;
+}
+.join{
+    color: rgba(43,179,177,255);
+    font-size: 3.5vw;
+
+}
+.join1{
+    color: rgba(191,223,50,255);
+    font-size: 2.5vw;
+}
+.text1
+{
+    color: rgb(86, 83, 83);
+    font-size: 1.6vw;
+}
+.con2{
+    display: flex ;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: white;
+    height: 40vw;
+}
+
+.con2 p 
+{
+    font-size: 2vw;
+}
+
+
+.lefttext
+{
+    font-size: 1.6vw;
+}
+.left button
+{
+    margin-right: auto;
+    width: 100%;
+    height: 18%;
+    font-size: 2vw;
+    background-color: rgba(191,223,50,255);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 3vw;
+}
+
+.left
+{
+    background-color: rgba(43,179,177,255);
+    border-radius: 0 0 0 7px;
+    padding: 3vw;
+    width: 50%;
+    font-family: 'Karla', sans-serif;
+}
+
+.right 
+{
+    background-color: rgba(74,190,189,255);
+    border-radius: 0 0 7px 0;
+    padding: 3vw;
+    width: 50%;
+    
+}
+.right p
+{
+    color: rgb(225, 235, 238);
+    line-height: 2.8vw;
+    font-family: 'Karla', sans-serif;
+}
+
+.left h2
+{
+    font-size: 3vw;
+    font-weight: 200;
+}
+.price
+{
+    display: flex;
+    margin-top: -4vw;
+    margin-bottom: -5vw;
+    font-weight: 100;
+}
+.month{
+    margin-left: 5%;
+    margin-top: 20%;
+    font-size: 1vw;
+    color: rgb(244, 236, 236);
+    opacity: 50%;
+}
+.priceh
+{
+    font-size: 5vw;
+}
+.right h3
+{
+    font-size: 3vw;
+}
+
+.left button:hover
+{
+    transform: scale(1.05);
+    background-color: rgb(128, 230, 65);
+}
+
+
